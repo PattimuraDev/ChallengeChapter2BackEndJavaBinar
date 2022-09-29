@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ChallengeChapter2BackEndJava:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChallengeChapter2BackEndJava_jar</output-path>
+    <root id="archive" name="ChallengeChapter2BackEndJava.jar">
+      <element id="module-output" name="ChallengeChapter2BackEndJava" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.24/lombok-1.18.24.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
