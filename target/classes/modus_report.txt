@@ -90,7 +90,7 @@ Nilai: 10, frekuensi: 3
 Modus: 4
 
 Kelas: KelasF
-Nilai: 1, frekuensi: 2
+Nilai: 1, frekuensi: 1
 Nilai: 2, frekuensi: 1
 Nilai: 3, frekuensi: 1
 Nilai: 4, frekuensi: 2
@@ -99,11 +99,11 @@ Nilai: 6, frekuensi: 1
 Nilai: 7, frekuensi: 2
 Nilai: 8, frekuensi: 3
 Nilai: 9, frekuensi: 4
-Nilai: 10, frekuensi: 6
+Nilai: 10, frekuensi: 7
 Modus: 10
 
 Kelas: (semua kelas)
-Nilai: 1, frekuensi: 17
+Nilai: 1, frekuensi: 16
 Nilai: 2, frekuensi: 11
 Nilai: 3, frekuensi: 16
 Nilai: 4, frekuensi: 21
@@ -112,6 +112,6 @@ Nilai: 6, frekuensi: 16
 Nilai: 7, frekuensi: 27
 Nilai: 8, frekuensi: 23
 Nilai: 9, frekuensi: 24
-Nilai: 10, frekuensi: 27
+Nilai: 10, frekuensi: 28
 Modus: 10
 

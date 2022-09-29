@@ -13,7 +13,6 @@ public class CsvFileProcessor implements FileProcessor {
 
     /**
      * Fungsi untuk membaca suatu file csv
-     *
      * @param fileLocation parameter string untuk lokasi direktori file
      */
     @Override
@@ -46,7 +45,6 @@ public class CsvFileProcessor implements FileProcessor {
 
     /**
      * Fungsi untuk membuat/meng-generate file dan menyimpan file pada suatu direktori
-     *
      * @param pilihan parameter untuk jenis/tipe file yang ingin digenerate
      */
     @Override
@@ -125,7 +123,6 @@ public class CsvFileProcessor implements FileProcessor {
     /**
      * Fungsi untuk menuliskan isi dari suatu teks file txt hasil generate fungsi fileWriter()
      * Khusus untuk menuliskan hasil mean dan median dari data nilai
-     *
      * @return String yang berisi tulisan/teks yang akan dituliskan ke dalam file
      */
     private String generateMeanMedianTxt() {
@@ -172,7 +169,6 @@ public class CsvFileProcessor implements FileProcessor {
     /**
      * Fungsi untuk menuliskan isi dari suatu teks file txt hasil generate fungsi fileWriter()
      * Khusus untuk menuliskan hasil modus dari data nilai
-     *
      * @return String yang berisi tulisan/teks yang akan dituliskan ke dalam file
      */
     private String generateModusTxt() {

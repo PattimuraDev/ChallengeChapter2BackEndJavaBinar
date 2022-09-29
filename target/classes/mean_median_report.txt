@@ -44,13 +44,13 @@ Modus: 4
 
 Kelas: KelasF
 Berikut Hasil Sebaran Data Nilai
-Mean: 6.956521739130435
+Mean: 7.3478260869565215
 Median: 8.0
 Modus: 10
 
 Kelas: (semua kelas)
 Berikut Hasil Sebaran Data Nilai
-Mean: 6.090909090909091
+Mean: 6.136363636363637
 Median: 7.0
-Modus: 7
+Modus: 10
 

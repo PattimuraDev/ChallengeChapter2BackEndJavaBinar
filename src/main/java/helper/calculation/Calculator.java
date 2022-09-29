@@ -7,7 +7,6 @@ import java.util.Map;
 public class Calculator {
     /**
      * Fungsi untuk menampilkan semua data mengenai semua nilai beserta frekuensi kemunculannya
-     *
      * @param dataNilai parameter berupa array integer untuk data nilai per kelas
      * @return string berisi semua data nilai beserta frekuensinya
      */
@@ -41,7 +40,6 @@ public class Calculator {
 
     /**
      * Fungsi/algoritma untuk mencari nilai median dari suatu deret nilai
-     *
      * @param dataNilai parameter untuk array integer berupa data nilai per kelas
      * @return hasil dari pencarian median
      */
@@ -58,7 +56,6 @@ public class Calculator {
 
     /**
      * Fungsi/algoritma untuk mencari nilai rata-rata/mean suatu deret nilai
-     *
      * @param dataNilai parameter untuk array integer berupa data nilai per kelas
      * @return hasil dari pencarian nilai rata-rata
      */
@@ -74,7 +71,6 @@ public class Calculator {
 
     /**
      * Fungsi/algoritma untuk mencari modus dari suatu deret nilai
-     *
      * @param dataNilai parameter untuk array integer berupa data nilai per kelas
      * @return hasil dari pencarian modus
      */

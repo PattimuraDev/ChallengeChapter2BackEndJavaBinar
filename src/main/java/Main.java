@@ -8,6 +8,9 @@ public class Main {
         programConsole();
     }
 
+    /**
+     * Fungsi untuk menjalankan konsol program
+     */
     private static void programConsole() {
         boolean running = true;
         Scanner input = new Scanner(System.in);
@@ -49,6 +52,9 @@ public class Main {
         }
     }
 
+    /**
+     * Fungsi untuk menampilkan main menu dari program
+     */
     private static void mainMenu() {
         final String pembatas = "---------------------------";
         System.out.println(pembatas +
