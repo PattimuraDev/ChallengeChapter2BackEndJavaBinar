@@ -1,0 +1,56 @@
+Berikut Hasil Pengolahan Nilai: 
+
+Kelas: KelasA
+Berikut Hasil Sebaran Data Nilai
+Mean: 4.782608695652174
+Median: 4.0
+Modus: 3
+
+Kelas: KelasC
+Berikut Hasil Sebaran Data Nilai
+Mean: 6.043478260869565
+Median: 7.0
+Modus: 7
+
+Kelas: KelasB
+Berikut Hasil Sebaran Data Nilai
+Mean: 6.653846153846154
+Median: 7.0
+Modus: 10
+
+Kelas: KelasH
+Berikut Hasil Sebaran Data Nilai
+Mean: 5.821428571428571
+Median: 6.0
+Modus: 6
+
+Kelas: KelasE
+Berikut Hasil Sebaran Data Nilai
+Mean: 6.217391304347826
+Median: 7.0
+Modus: 8
+
+Kelas: KelasD
+Berikut Hasil Sebaran Data Nilai
+Mean: 6.1923076923076925
+Median: 7.0
+Modus: 7
+
+Kelas: KelasG
+Berikut Hasil Sebaran Data Nilai
+Mean: 6.038461538461538
+Median: 6.0
+Modus: 4
+
+Kelas: KelasF
+Berikut Hasil Sebaran Data Nilai
+Mean: 7.3478260869565215
+Median: 8.0
+Modus: 10
+
+Kelas: (semua kelas)
+Berikut Hasil Sebaran Data Nilai
+Mean: 6.136363636363637
+Median: 7.0
+Modus: 10
+
